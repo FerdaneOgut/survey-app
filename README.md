@@ -7,7 +7,7 @@ The project consist of back-end written with .Net Core and front-end with React/
 
 To run the backend app by using dotnet-cli;
 
- ```dotnet run```\
+ ```dotnet run```
 
 The api will be available on http://localhost:5250 as default.
 
