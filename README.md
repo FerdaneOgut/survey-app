@@ -2,6 +2,7 @@
 
 This project is for creating, listing, submitting multiple choice surveys. 
 The project consist of back-end written with .Net Core and front-end with React/Typescript.
+The backend will generate a sqlite db for saving the survey informations.
 
 ## Available Scripts
 
